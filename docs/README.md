@@ -1,8 +1,8 @@
-# HTML-PDF
+# DIAGRAMATION-TEMPLATE
 
-Lector de PDF
+Grilla interactiva que cambiara el orden desde site-editor y recibira componentes hijos
 
-![image](https://user-images.githubusercontent.com/55117122/204122385-b2ef47c9-5bcb-4702-b316-575b1dbf69bd.png)
+![image](https://user-images.githubusercontent.com/55117122/204391639-592cd432-c40d-4894-b5ef-22b37bb9a15d.png)
 
 ## Configuración 
 
@@ -23,9 +23,9 @@ Configurar el Manifest.json basado en el siguiente ejemplo:
 ```json
 {
 "vendor": "itgloberspartnercl",
-"name": "pdf-reader",
+"name": "special-diagramation",
 "version": "0.0.1",
-"title": "Lector de PDF",
+"title": "Diagramación especial",
 }
 ```
 ## Paso 4 - Instalar apps necesarias
@@ -40,7 +40,7 @@ Una vez realizadas las configuraciones necesarias de el componente  ejecutar el 
 
 ## Dependencies
 
-"itgloberspartnercl.pdf-reader": "0.x"
+ "itgloberspartnercl.special-diagramation": "0.x"
 
 ## Contributors
 
